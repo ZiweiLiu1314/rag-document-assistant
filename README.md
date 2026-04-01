@@ -2,7 +2,9 @@
 
 **Stack:** Python · LangChain (LCEL) · Groq (Llama 3.3 70B) · HuggingFace Embeddings · ChromaDB · PDFPlumber
 
-A conversational RAG agent that answers questions about the EU AI Act (144 pages) in a grounded and hallucination-resistant way. Incorporated prompt engineering to handle out-of-context queries, and conversatin memory for coherence multi-turn conversations. Built with LangChain's modern LCEL pipeline, replacing the deprecated `ConversationalRetrievalChain` with `create_history_aware_retriever` 
+* A conversational RAG agent that answers questions about the EU AI Act (144 pages) in a grounded and hallucination-resistant way.
+* Incorporated prompt engineering to handle out-of-context queries, and conversatin memory for coherence multi-turn conversations.
+* Built with LangChain's modern LCEL pipeline, replacing the deprecated `ConversationalRetrievalChain` with `create_history_aware_retriever` 
 and `create_retrieval_chain`. 
 
 
