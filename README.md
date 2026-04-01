@@ -13,6 +13,7 @@ and `create_retrieval_chain`.
    GROQ_API_KEY=your_key_here
 ```
    Get a free key at [console.groq.com](https://console.groq.com)
+
 3. Open the notebook
 
 ## Data
