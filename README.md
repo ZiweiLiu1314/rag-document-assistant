@@ -1,5 +1,7 @@
 # RAG Document Assistant: Querying the EU AI Act with LangChain
 
+Developed Oct 2025–Jan 2026 as part of IBM RAG course; refactored and published March 2026.
+
 **Stack:** Python · LangChain (LCEL) · Groq (Llama 3.3 70B) · HuggingFace Embeddings · ChromaDB · PDFPlumber
 
 * A conversational RAG agent that answers questions about the EU AI Act (144 pages) in a grounded and hallucination-resistant way.
